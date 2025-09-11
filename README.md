@@ -7,7 +7,31 @@ Welcome to the "Course Computer Vision" notebook! This course is designed to int
 
 
 ## What You Will Learn
+* Understand the basic concepts of machine learning.
+* Create and train a neural network in Python with pytorch.
+* Apply machine learning algorithms to real-world data.
+* Convolutional Neural Networks (CNNs)
+* Data Augmentation
+* Test Time Augmentation
+* Ensemble Learning
+* Transfer Learning
+* Collaborate with a team to solve machine learning problems.
 
+
+## Prerequisites
+* Ensure that git is installed on your machine. [Download Git](https://git-scm.com/downloads).
+* Basic programming knowledge (Python recommended) [Download Python](https://www.python.org/downloads/).
+* Familiarity with Jupyter Notebooks.
+
+## Setup
+1. Clone the repository.
+```bash
+git clone https://github.com/CogitoNTNU/course-on-neural-networks.git
+```
+2. Install juptyer notebook
+```bash
+pip install ipykernel -U --user
+```
 
 ## Extras
 Beyond the core content, the course provides additional insights into:
