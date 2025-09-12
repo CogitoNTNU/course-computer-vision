@@ -1,6 +1,6 @@
-# Course Computer Vision
+# Course on Computer Vision
 
-Welcome to the "Course Computer Vision" notebook! This course is designed to introduce you to the fundamentals of computer vision, covering key concepts, techniques, and applications.
+Welcome to the "Course on Computer Vision"! This course is designed to introduce you to the fundamentals of computer vision, covering key concepts, techniques, and applications.
 
 ## Overview
 
@@ -11,6 +11,9 @@ Welcome to the "Course Computer Vision" notebook! This course is designed to int
 * Create and train a neural network in Python with pytorch.
 * Apply machine learning algorithms to real-world data.
 * Convolutional Neural Networks (CNNs)
+* Filter an image for a particular feature (convolution)
+* Detect that feature within the filtered image (ReLU)
+* Condense the image to enhance the features (maximum pooling)
 * Data Augmentation
 * Test Time Augmentation
 * Ensemble Learning
@@ -26,7 +29,7 @@ Welcome to the "Course Computer Vision" notebook! This course is designed to int
 ## Setup
 1. Clone the repository.
 ```bash
-git clone https://github.com/CogitoNTNU/course-on-neural-networks.git
+git clone https://github.com/CogitoNTNU/course-on-computer-vision.git
 ```
 2. Install juptyer notebook
 ```bash
